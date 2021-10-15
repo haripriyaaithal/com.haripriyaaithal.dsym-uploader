@@ -1,0 +1,14 @@
+{
+    "name": "com.haripriyaaithal.dsym-uploader",
+    "displayName": "iOS dSYM Uploader for Firebase",
+    "version": "1.0.0",
+    "unity": "2020.3",
+    "author": "Haripriya Aithal",
+    "description": "A Unity editor tool to upload iOS dSYMs to Firebase",
+    "dependencies": {},
+    "repositor": {
+        "type": "git",
+        "url": "",
+        "revision": ""
+    }
+}
